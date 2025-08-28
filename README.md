@@ -9,7 +9,7 @@
 npx create-react-app location-tracker
 cd location-tracker
 
-# Install additional dependencies
+# Install additional dependencies 
 npm install lucide-react
 ```
 
